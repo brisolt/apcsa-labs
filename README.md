@@ -55,7 +55,6 @@ Java lab projects from my AP Computer Science A course (2023–2024), organized 
 |---------|-------|
 | Q1_Project_MadLibs | Console Mad Libs game with a Mongolian Empire theme |
 | Q3_Project_InfectionSimulation | Graphical infection spread simulation using Java Swing |
-| Q4_Project_FlashcardQuiz | CSV-based flashcard and multiple-choice quiz app |
 
 ## Running
 
